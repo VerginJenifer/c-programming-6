@@ -1,3 +1,4 @@
+# C program to check whether the input value is 0  using simple if statement.
 ## AIM:
 To Write a C program to check whether the input value is 0  using simple if statement.
 ## ALGORITHM:
